@@ -3,5 +3,4 @@ google-generativeai==0.1.0
 python-dotenv==1.0.0
 docx2txt==0.8
 PyPDF2==1.26.0
-spacy==3.4.3
-en-core-web-sm==3.4.0
+spacy==2.3.5
