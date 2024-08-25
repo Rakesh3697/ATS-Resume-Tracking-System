@@ -8,7 +8,7 @@ import spacy
 
 # Load environment variables from a .env file
 load_dotenv()
-spacy.cli.download("en_core_web_sm")
+
 # Configure the generative AI model with the Google API key
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
