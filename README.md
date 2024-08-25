@@ -76,3 +76,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 Made by Rakesh T
 email:rakeshthangaraj89@gmail.com
+
+
+![ATS_friendly_Resume_screenshot](https://github.com/user-attachments/assets/ca773b4a-e2c2-4e54-bf44-1e4573d540ca)
