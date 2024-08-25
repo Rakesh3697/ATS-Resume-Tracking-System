@@ -78,5 +78,5 @@ Made by Rakesh T
 email:rakeshthangaraj89@gmail.com
 
 
-![ATS_friendly_Resume_screenshot](https://github.com/user-attachments/assets/81dcf55b-ec9e-4d49-b647-45f394bed63d)
+![ATS_friendly_Resume_screenshot](https://github.com/user-attachments/assets/dddc11e4-3f42-4616-af9d-c8c6376c2fd1)
 
