@@ -46,8 +46,9 @@ bash:
 python -m spacy download en_core_web_sm
 Create a .env file in the root directory of the project and add your Google API key:
 
-env:
+env
 GOOGLE_API_KEY=your_google_api_key
+
 Usage:
 Run the Streamlit app:
 
