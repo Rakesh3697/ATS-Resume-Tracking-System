@@ -3,4 +3,4 @@ google-generativeai
 python-dotenv
 PyPDF2
 docx2txt
-spacy download en_core_web_sm
+spacy 
