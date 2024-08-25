@@ -4,4 +4,4 @@ python-dotenv
 PyPDF2
 docx2txt
 spacy
-en_core_web_sm
+spacy download en_core_web_sm
