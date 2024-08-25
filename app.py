@@ -5,6 +5,7 @@ import docx2txt
 import PyPDF2 as pdf
 from dotenv import load_dotenv
 import spacy
+spacy.load('en_core_web_sm')
 
 # Load environment variables from a .env file
 load_dotenv()
