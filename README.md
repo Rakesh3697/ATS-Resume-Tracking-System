@@ -31,7 +31,7 @@ This project is an Intelligent Applicant Tracking System (ATS) that enhances res
    cd ats-resume-tracking-system
 Create a virtual environment and activate it:
 
-bash
+``bash
 Copy code
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
